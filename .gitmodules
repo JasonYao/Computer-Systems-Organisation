@@ -1,0 +1,9 @@
+[submodule "Project1BufferBomb"]
+	path = Project1BufferBomb
+	url = git@github.com:JasonYao/BufferBomb.git
+[submodule "Project2CacheOptimisations"]
+	path = Project2CacheOptimisations
+	url = git@github.com:JasonYao/Userland-Cache-Optimisation.git
+[submodule "Project3PageReplacementPolicies"]
+	path = Project3PageReplacementPolicies
+	url = git@github.com:JasonYao/Page-Replacement-Policy.git
